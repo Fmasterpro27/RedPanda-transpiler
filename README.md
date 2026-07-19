@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Fmasterpro27/RedPanda-transpiler/main/assets/redpanda.png" 
        alt="RedPanda Transpiler logo"
-       width="250; height:auto;">
+       width="250">
 </p>
 
 > A Python → Mandarin Chinese transpiler.
