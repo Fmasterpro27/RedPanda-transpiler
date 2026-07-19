@@ -1,0 +1,25 @@
+打印("Hello, World!")
+
+name = 输入("What is your name? ")
+
+如果 name:
+    打印("Hello,", name)
+否则:
+    打印("No name provided.")
+
+对于 i 于 范围(5):
+    打印(i)
+
+numbers = [1, 2, 3, 4, 5]
+打印(长度(numbers))
+
+定义 square(x):
+    返回 x * x
+
+打印(square(10))
+
+value = 空
+flag = 真
+
+如果 flag 且 value 是 空:
+    打印("Done")
