@@ -1,9 +1,9 @@
 # 🐼 RedPanda Transpiler
 
 <p align="center">
-  <img src="/assets/redpanda.png" 
+  <img src="https://raw.githubusercontent.com/Fmasterpro27/RedPanda-transpiler/main/assets/redpanda.png" 
        alt="RedPanda Transpiler logo"
-       style="max-width:100%; height:auto;">
+       width="250; height:auto;">
 </p>
 
 > A Python → Mandarin Chinese transpiler.
