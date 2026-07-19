@@ -1,7 +1,7 @@
 # 🐼 RedPanda Transpiler
 
 <p align="center">
-  <img src="/assets/redpanda.jpg" 
+  <img src="/assets/redpanda.png" 
        alt="RedPanda Transpiler logo"
        style="max-width:100%; height:auto;">
 </p>
